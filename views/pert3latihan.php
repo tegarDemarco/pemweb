@@ -37,7 +37,7 @@
             <td rowspan="3" align="center">
                 <img src="https://www.kliknklik.com/wp-content/uploads/2023/02/asus_asus_e210ma_full01_br0s8h0f-1-1-500x500.jpg" alt="Asus Vivobook E210MA" width="100">
             </td>
-            <td>Asus Vivobook E210MA<</td>
+            <td>Asus Vivobook E210MA</td>
         </tr>
         <tr>
             <td>Intel N4020. Ram 4/256</td>

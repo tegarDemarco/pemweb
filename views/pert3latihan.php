@@ -62,6 +62,14 @@
         </tr>
 
     </table>
+    <div class="toolbar">
+    <div class="filter-group">
+      <button class="filter-btn active" data-filter="semua">Semua</button>
+      <button class="filter-btn" data-filter="lenovo">Lenovo</button>
+      <button class="filter-btn" data-filter="asus">Asus</button>
+      <button class="filter-btn" data-filter="hp">HP</button>
+      <button class="filter-btn" data-filter="acer">Acer</button>
+    </div>
     
 </body>
 </html>

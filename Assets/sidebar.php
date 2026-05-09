@@ -106,12 +106,6 @@
                     </a>
                   </li>
                   <li class="nav-item">
-                    <a href="/TTWWEB/views/pert6.php" class="nav-link">
-                      <i class="nav-icon bi bi-circle"></i>
-                      <p>Pertemuan 6</p>
-                    </a>
-                  </li>
-                  <li class="nav-item">
                     <a href="/TTWWEB/content/pert7.php" class="nav-link">
                       <i class="nav-icon bi bi-circle"></i>
                       <p>Pertemuan 7</p>
